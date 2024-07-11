@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744045617747",
+    "project_id": "road-fuel-go",
+    "storage_bucket": "road-fuel-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744045617747:android:b6f601b2545ca1d7e01ca6",
+        "android_client_info": {
+          "package_name": "com.example.roadfuelgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744045617747-6jbuuaqndmgdh8t6o27n921v4qscl2t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxtzj3V8g-lC6KB9raRd_nMAz6nmgtMME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744045617747-6jbuuaqndmgdh8t6o27n921v4qscl2t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
